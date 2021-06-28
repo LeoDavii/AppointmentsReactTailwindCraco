@@ -1,1 +1,1 @@
-Single Page Application to Manage Appointments, developed with React and Tailwind on a LinkedinLearning course
+A simple React single page project developed on React.js: Building an Interface course of LinkedinLearning using TailWind
